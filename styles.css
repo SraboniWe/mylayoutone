@@ -1,0 +1,91 @@
+.header{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: crimson;
+    text-align: center;
+    
+}
+.one{
+    background-color: aqua;
+    width: 20%;
+    height: 50%;
+
+}
+.two{
+background-color: blue;
+width: 20%;
+height: 50%;
+}
+.three{
+ background-color: blueviolet;
+ width: 20%;
+ height: 50%;
+}
+.four{
+    background-color: khaki;
+    width: 10%;
+    height: 50%
+ 
+
+}
+.five{
+background-color: chartreuse;
+width: 30%;
+height: 50%;
+}
+
+.section{
+display: flex;
+height: 150px;
+width: 100%;
+background-color: coral;
+text-align: center;
+}
+
+.first{
+background-color: cornflowerblue;
+height: 50px;
+width: 20%;
+
+}
+.second{
+    background-color: darkgreen;
+    height: 50px;
+    width: 40%;
+
+}
+
+.bod{
+display: flex;
+height: 400px;
+width: 100%;
+background-color: dodgerblue;
+}
+
+.only{
+    background-color: darkmagenta;
+    height: 400px;
+    width: 30%;
+
+}
+
+.togrther{
+height: 400px;
+width: 50%;
+}
+
+.on{
+    background-color: darkslategray;
+    height: 200px;
+    width: 25%;
+   
+  
+
+}
+
+.of{
+background-color: gold;
+height: 200px;
+width: 25%;
+}
